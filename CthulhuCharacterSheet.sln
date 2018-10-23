@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CthulhuCharacterSheet", "CthulhuCharacterSheet\CthulhuCharacterSheet.csproj", "{9ADC4AF4-D375-40BB-881C-388F4A9BBCAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CthulhuCharacterSheet.Tests", "CthulhuCharacterSheet.Tests\CthulhuCharacterSheet.Tests.csproj", "{7076A270-DACC-4F60-87A1-AE1A08EE7391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ADC4AF4-D375-40BB-881C-388F4A9BBCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADC4AF4-D375-40BB-881C-388F4A9BBCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADC4AF4-D375-40BB-881C-388F4A9BBCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADC4AF4-D375-40BB-881C-388F4A9BBCAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7076A270-DACC-4F60-87A1-AE1A08EE7391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7076A270-DACC-4F60-87A1-AE1A08EE7391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7076A270-DACC-4F60-87A1-AE1A08EE7391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7076A270-DACC-4F60-87A1-AE1A08EE7391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D4D73FD-FD53-4C68-8804-D11A9F008A6E}
+	EndGlobalSection
+EndGlobal
